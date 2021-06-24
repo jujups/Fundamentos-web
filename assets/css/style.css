@@ -1,0 +1,80 @@
+
+/*Estilos da página index.html*/
+
+.align{
+  
+    text-align: justify;
+}
+
+.container{
+
+ display: flex ;
+ flex-flow: row ;
+ justify-content: center;
+align-items: center;
+padding: 20px;
+}
+
+.imag{
+
+padding: 15px;
+}
+
+#menu li {
+
+    display: inline;
+    padding: 20px;
+}
+ #menu li a {
+
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+ }
+
+ #menu li a:hover {
+     color: pink
+ }
+
+
+
+/*Estilos da página onde.html*/
+
+#menu2 li {
+
+    display: inline;
+    padding: 20px;
+}
+ #menu2 li a {
+
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+ }
+
+ #menu2 li a:hover {
+     color: pink
+ }
+
+
+
+
+
+
+/*Estilos da página contato.html*/
+
+#menu3 li {
+
+    display: inline;
+    padding: 20px;
+}
+ #menu3 li a {
+
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+ }
+
+ #menu3 li a:hover {
+     color: pink
+ }
